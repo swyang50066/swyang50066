@@ -27,7 +27,7 @@ Through my degree course and work career, I have experienced in diverse numerica
 
 I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
 
-![swyang's github stats](https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=synthwave)
+![swyang's github stats](https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=vue)
 
 
 <!--
