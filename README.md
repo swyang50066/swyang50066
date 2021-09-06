@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'am research scientist dealing with physical model-based simulation and data-driven modeling.
+Through my degree course and work career, I have experienced in diverse numerical simulations, such as computational hydrodynamics, multi-physics modeling, image processing, machine/deep learning, reinforcement learning.
+I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
+
+![swyang's github stats](https://github-readme-stats.vercel.app/api?username=swyang&show_icons=true&theme=synthwave)
+
 
 <!--
 **swyang50066/swyang50066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
