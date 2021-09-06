@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
 </p>
 
-> We are all a star/planet/dust and become a companion star to each other.
-
 I'am research scientist dealing with **physical model-based simulation** and **data-driven modeling**.
 
 Through my degree course and work career, I have experienced in diverse numerical simulations, such as *computational fluid dynamics*, *multi-physics modeling*, *image processing*, *machine/deep learning*, *reinforcement learning*.
