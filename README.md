@@ -31,8 +31,9 @@ I like to discuss novel things, so don't hesitate to contact me to talk about re
   <img src="https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=vue"/>
 </p>
 
+<!--
 ![swyang's github stats](https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=vue)
-
+-->
 
 <!--
 **swyang50066/swyang50066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
