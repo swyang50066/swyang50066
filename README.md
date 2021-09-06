@@ -24,8 +24,8 @@
 I'am research scientist dealing with **physical model-based simulation** and **data-driven modeling**.
 
 Through my degree course and work career, I have experienced in diverse numerical simulations, such as 
-* *computational fluid dynamics*
-* *multi-physics solver*
+* *Computational Fluid Dynamics (CFD)*
+* *Multi-physics Solver*
 * *Computer Vision/Image Processing*
 * *Computational Geometry*
 * *Machine/Deep Learning*
