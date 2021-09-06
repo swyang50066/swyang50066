@@ -23,7 +23,13 @@
 
 I'am research scientist dealing with **physical model-based simulation** and **data-driven modeling**.
 
-Through my degree course and work career, I have experienced in diverse numerical simulations, such as *computational fluid dynamics*, *multi-physics modeling*, *image processing*, *machine/deep learning*, *reinforcement learning*.
+Through my degree course and work career, I have experienced in diverse numerical simulations, such as 
+* *computational fluid dynamics*
+* *multi-physics solver*
+* *Computer Vision/Image Processing*
+* *Computational Geometry*
+* *Machine/Deep Learning*
+* *Reinforcement Learning*
 
 I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
 
