@@ -5,10 +5,16 @@
   <img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-squre&logo=scipy&logoColor=%white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-squre&logo=markdown&logoColor=white"/></a>&nbsp
-  <img src=""/></a>&nbsp
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
 </p>
 
 I'am research scientist dealing with physical model-based simulation and data-driven modeling.
