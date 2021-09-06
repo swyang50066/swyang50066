@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tensorflow?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
 </p>
 
 I'am research scientist dealing with physical model-based simulation and data-driven modeling.
