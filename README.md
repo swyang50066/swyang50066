@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
 </p>
 
->>> hiu
+> We are all a star/planet/dust and become a companion star to each other.
 
 I'am research scientist dealing with **physical model-based simulation** and **data-driven modeling**.
 
