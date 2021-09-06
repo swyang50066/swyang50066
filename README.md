@@ -28,7 +28,7 @@ Through my degree course and work career, I have experienced in diverse numerica
 I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue"/>
 </p>
 
 <!--
