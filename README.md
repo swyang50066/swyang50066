@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
 </p>
 
-I'am research scientist dealing with physical model-based simulation and data-driven modeling.
+I'am research scientist dealing with **physical model-based simulation** and **data-driven modeling**.
 
-Through my degree course and work career, I have experienced in diverse numerical simulations, such as computational hydrodynamics, multi-physics modeling, image processing, machine/deep learning, reinforcement learning.
+Through my degree course and work career, I have experienced in diverse numerical simulations, such as *computational fluid dynamics*, *multi-physics modeling*, *image processing*, *machine/deep learning*, *reinforcement learning*.
 
 I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
 
