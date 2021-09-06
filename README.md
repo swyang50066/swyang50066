@@ -37,7 +37,7 @@ I like to discuss novel things, so don't hesitate to contact me to talk about re
 
 ### Contact
   **[e-mail]**  <bigbang50066@gmail.com>  
-  **[linkedin]**  [LinkedIn](https:///www.linkedin.com/in/swyang50066/)
+  **[linkedin]**  <https:///www.linkedin.com/in/swyang50066>
   **[blog]**    [my-tech-archive](http://my-tech-archive.site)
 
 <p align='center'>
