@@ -35,8 +35,7 @@ Through my degree course and work career, I have experienced in diverse numerica
 
 I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions:
 
-**e-mail**: <bigbang50066@gmail.com>.
-
+**e-mail**: <bigbang50066@gmail.com>\n
 **blog**: [my-tech-archive](http://my-tech-archive.site)
 
 <p align='center'>
