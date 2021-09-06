@@ -32,7 +32,7 @@ I like to discuss novel things, so don't hesitate to contact me to talk about re
 </p>
 
 <!--
-![swyang's github stats](https://github-readme-stats.vercel.app/api?username=SWYANG&show_icons=true&theme=vue)
+![swyang's github stats](https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue)
 -->
 
 <!--
