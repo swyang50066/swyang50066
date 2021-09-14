@@ -27,7 +27,7 @@ I am computational research scientist dealing with **physical model-based simula
 
 Through my degree course and work career, I have experienced in diverse numerical simulations, such as 
 * *Computational Fluid Dynamics (CFD)*
-* *Multi-physics Solver*
+* *Multi-physics Simulation/Fluid-Solid Interaction*
 * *Computer Vision/Image Processing*
 * *Computational Geometry*
 * *Machine/Deep Learning*
