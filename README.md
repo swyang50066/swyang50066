@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am computational research scientist dealing with **physical model-based simulation** and **data-driven methods**.
+I am computational research scientist dealing with **physics-modeling based simulation** and **data-driven modeling**.
 
 Through my degree course and work career, I have experienced in diverse numerical simulations, such as 
 * *Computational Fluid Dynamics (CFD)*
