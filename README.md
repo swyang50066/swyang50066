@@ -39,6 +39,7 @@ I like to discuss novel things, so don't hesitate to contact me to talk about re
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/swyang50066>  
   **[blog]**    [my-tech-archive](http://my-tech-archive.site)
+  **[twitter]** [swyang50066](https://twitter.com/swyang50066)
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue"/>
