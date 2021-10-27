@@ -31,9 +31,9 @@ I have experienced in solving multiple computational problems via my degree cour
 * *Computer Vision/Image Processing*
 * *Computational Geometry*
 * *Machine/Deep Learning*
-* *Reinforcement Learning*
+* *Reinforcement Learning*  
 
-I like to discuss novel things, so don't hesitate to contact me to talk about research topics or ask any questions.
+I always welcome everyone who want to discuss interesting problems with me (even if that problem is a new thing to me), so I'd like that you do not hesitate contact me to talk about research topics or ask any questions (use below contact information)
 
 ### Contact
   **[e-mail]**  <bigbang50066@gmail.com>  
