@@ -23,9 +23,8 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am computational research scientist dealing with **physics-modeling based simulation** and **data-driven modeling**.
+I am computational research scientist specialized in data-driven/Physics-based/Physics-informed modeling and simulation dealing with diverse challenging topics. I have experienced in solving multiple computational problems via my degree course and work career, such as  
 
-Through my degree course and work career, I have experienced in diverse numerical simulations, such as 
 * *Computational Fluid Dynamics (CFD)*
 * *Multi-physics Simulation/Fluid-Solid Interaction*
 * *Computer Vision/Image Processing*
