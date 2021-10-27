@@ -37,7 +37,7 @@ I always welcome everyone who want to discuss interesting problems with me (even
 
 ### Contact
   **[e-mail]**  <bigbang50066@gmail.com>  
-  **[linkedin]**  <https:///www.linkedin.com/in/swyang50066>  
+  **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
   **[blog]**    [my-tech-archive](http://my-tech-archive.site)  
   **[twitter]** [swyang50066](https://twitter.com/swyang50066)
 
