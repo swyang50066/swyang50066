@@ -24,12 +24,9 @@
 </p>
 
 
-I am *Seung-Won Yang* and a *computational research scientist* specialized in **Data-driven/Model-based/Physics-informed** simulation.  
+I am *Seung-Won Yang* and a *computational research scientist* specialized in **Data-driven/Model-based/Physics-informed**. Carrying out degrees in *Physics*, *Astronomy*, and *Mechanical Engineering*, I majored in **Astrophysics**  and did researches on dynamical evolution of planet. When I encountered AI technologies was from starting my career as a research scientist in computer vision (but I got attracted to it soon!). It is just start to me, but these days, I have been spending my passion on the topics such as classification, segmentation, landmark detection based on medical image data.
 
-My major was **Astrophysics** dealing with dynamical evolution of planet, and I carried out my degrees in *Physics*, *Astronomy*, and *Mechanical Engineering*.
-
-
-and though my career, I have experienced in solving multiple computational problems relating to the followings: 
+In my career, I have experienced in solving computational problems relating to the followings: 
 
 * *Computational Fluid Dynamics (CFD)*
 * *Multi-physics Simulation/Fluid-Solid Interaction*
@@ -38,7 +35,7 @@ and though my career, I have experienced in solving multiple computational probl
 * *Machine/Deep Learning*
 * *Reinforcement Learning*  
 
-I always welcome everyone who want to discuss research interest with me (even if that problem is a totally new thing to me), so I'd like that you do not hesitate contact me to talk about research topics or ask any questions (use below contact information)
+I always welcome everyone who want to discuss with me, so I'd like you don't hesitate contact me if you want to talk about research topics or ask some questions :)
 
 ### Contact
   **[e-mail]**  <bigbang50066@gmail.com>  
