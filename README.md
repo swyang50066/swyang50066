@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am *Seung-Won Yang* and a *computational research scientist* specialized in **data-driven/Physics-based/Physics-informed** modeling and simulation dealing with diverse challenging topics. I carried out my degrees in **Physics**, **Astronomy**, and **Mechanical Engineering**, and though my career, I have experienced in solving multiple computational problems relating to the followings: 
+I am *Seung-Won Yang* and a *computational research scientist* specialized in **data-driven/Model-based/Physics-informed** modeling and simulation dealing with diverse challenging topics. I carried out my degrees in **Physics**, **Astronomy**, and **Mechanical Engineering**, and though my career, I have experienced in solving multiple computational problems relating to the followings: 
 
 * *Computational Fluid Dynamics (CFD)*
 * *Multi-physics Simulation/Fluid-Solid Interaction*
