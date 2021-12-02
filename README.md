@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am *Seung-Won Yang* and a *computational research scientist* specialized in **Data-driven/Model-based/Physics-informed**. Carrying out degrees in *Physics* and *Astronomy*, I majored in Astrophysics  and did researches on dynamical evolution of planet. When I have encountered AI technologies was from starting my career as a research scientist in computer vision (I got attracted to it soon!). It is just start to me, but these days, I have been spending my passion on the topics such as classification, segmentation, landmark detection based on medical image data.
+I am *Seung-Won Yang* and a *computational research scientist* specialized in **Data-driven/Model-based/Physics-informed**. Carrying out degrees in *Physics* and *Astronomy*, I majored in **Astrophysics**  and did researches on dynamical evolution of planet. When I have encountered AI technologies was from beginning my career as a research scientist in computer vision (I got attracted to it soon!). It is just start to me, but these days, I have been spending my passion on the topics such as classification, segmentation, landmark detection based on medical image data.
 
 In my career, I have experienced in solving computational problems relating to the followings: 
 
