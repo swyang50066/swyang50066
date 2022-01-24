@@ -36,8 +36,6 @@ In my career, I have experienced in solving several computational problems relat
 5. **Machine Learning and Deep Learning**
 6. **Reinforcement Learning**
 
-(Recently, I have been studying with particular interest in reinforcement learning and graph neural network)
-
 I always welcome everyone who want to discuss with me, so don't hesitate contact me if you want to talk about research topics or ask some questions :)
 
 ### Contact
