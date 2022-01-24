@@ -25,7 +25,7 @@
 
 Hello, I am *Seung-Won Yang* and a computational research scientist specialized in **Data-driven and** **Model-based** **simulations**. 
 
-Until I've faced AI technologies I carried out master degree in Astrophysics, studying [dynamical evolution of gas giant](https://en.wikipedia.org/wiki/Planetary_migration). While starting my career as research scientist after graduation, I have digged into machine learning stuff in earnest. It is just start to me, however, I have been spending my passion these days on the topics such as classification, segmentation, landmark detection based on medical image data. Not only in AI but I’d like to become an expert in the overall field of computational simulation.
+Until I've faced AI technologies I carried out master degree in Astrophysics, studying dynamical evolution of gas giant. While starting my career as research scientist after graduation, I am digging into machine learning stuff in earnest. It is just start to me, however, I spend my passion these days on the topics such as classification, segmentation, landmark detection based on medical image data. Not only in AI but I’d like to become an expert in the overall field of computational simulation.
 
 In my career, I have experienced in solving several computational problems relating to the following topics:
 
