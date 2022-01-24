@@ -23,16 +23,20 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am *Seung-Won Yang* and a *computational research scientist* specialized in **Data-driven/Model-based/Physics-informed** simulation. Carrying out degrees in *Physics* and *Astronomy*, I majored in **Astrophysics**  and did researches on dynamical evolution of planet. When I have encountered AI technologies was from the beginning of my career as a research scientist in computer vision (I got attracted to it soon!). It is just start to me, but these days, I have been spending my passion on the topics such as classification, segmentation, landmark detection based on medical image data.
+Hello, I am *Seung-Won Yang* and a computational research scientist specialized in **Data-driven and** **Model-based** **simulations**. 
 
-In my career, I have experienced in solving computational problems relating to the followings: 
+Until I've faced AI technologies I carried out master degree in Astrophysics, studying [dynamical evolution of gas giant](https://en.wikipedia.org/wiki/Planetary_migration). While starting my career as research scientist after graduation, I have digged into machine learning stuff in earnest. It is just start to me, however, I have been spending my passion these days on the topics such as classification, segmentation, landmark detection based on medical image data. Not only in AI but I’d like to become an expert in the overall field of computational simulation.
 
-* *Computational Fluid Dynamics (CFD)*
-* *Multi-physics Simulation/Fluid-Solid Interaction*
-* *Computer Vision/Image Processing*
-* *Computational Geometry*
-* *Machine/Deep Learning*
-* *Reinforcement Learning*  
+In my career, I have experienced in solving several computational problems relating to the following topics:
+
+1. **Computational Fluid Dynamics (CFD)**
+2. **Multi-physics Simulation**
+3. **Image Processing**
+4. **Computational Geometry**
+5. **Machine Learning and Deep Learning**
+6. **Reinforcement Learning**
+
+(Recently, I have been studying with particular interest in reinforcement learning and graph neural network)
 
 I always welcome everyone who want to discuss with me, so I'd like you don't hesitate contact me if you want to talk about research topics or ask some questions :)
 
