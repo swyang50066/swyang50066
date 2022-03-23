@@ -35,9 +35,9 @@ In my career, I have experienced in solving several computational problems relat
 4. **Machine/Deep Learning**
 5. **Reinforcement Learning**
 
+### Contact
 I always welcome everyone who want to discuss with me, so don't hesitate contact me if you want to talk about research topics or ask some questions :)
 
-### Contact
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
   **[blog]**    [my-tech-archive](http://my-tech-archive.site)  
