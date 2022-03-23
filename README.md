@@ -30,11 +30,11 @@ My scientific computing skills had trained through wide research experiences. Ca
 
 That was after graduation I had moved to hold a position in applied research scientist, cause me to be working on AI stuff. In particular I have been stepping toward medical imaging which is a branch of computer vision. So these days, my main tasks become anatomical segmentation, landmark/anomaly detection, and image/geometry processing, dealing with novel algorithmic methods based on deep learning and reinforcement learning. Also, I am a lead to AI research & medical imaging team at present, managing research projects.
 
-Not only scientific and technical terms but I am very into  
+By the way, not only scientific and technical terms but I am very into understanding project management skills. Because I believe the importance of teamwork, I am trying to figure out how to clarify work communication, how to improve team performance, how to encourage personal growth in the team, how to establish team norm that make work efficient and effective, and so on. Frankly, I'm still immature on that but soon hope to grow as both good team member and team lead.
 
 
 ### Contact
-*If you look forward to discuss interesting topics of research and development with me, not that hesitate to contact me through below information :)*
+If you look forward to have a discuss with me about interesting scientific and technical subjects (even no matter what it is), not that you hesitate to contact me through below information :)
 
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
