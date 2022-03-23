@@ -24,7 +24,7 @@
 </p>
 
 
-I am *Seung-Won Yang* and a research scientist at AI Medic Inc. specialized in the **data-driven/physics-based modeling** and **scientific simulation**. 
+I am *Seung-Won Yang* and a research scientist specialized in the **data-driven/physics-based modeling** and **scientific simulation**. 
 
 My scientific computing skills had trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of high velocity cloud found throughout galactic halo, gas dynamics and astrochemical evolution of the molecular clouds, and physical interaction between gas giant and protoplanetary disk. While digging these topics, I learned diverse numerical techniques in computational fluid dynamics (AMR, SPH, MFM) and multi-physics simulation and contributed on developing multiple solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
 
