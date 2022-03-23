@@ -23,20 +23,11 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-Hello, I am *Seung-Won Yang* and a computational research scientist specialized in **Data-driven and** **Model-based** **simulations**. 
+I am *Seung-Won Yang* and a research scientist specialized in the scientific simulation of **data-driven** and **physics-based** models. My scientific computing skills have been trained through research and career experiences. Carrying out my degrees in Astrophysics, I studied the origin of dark matter embedded high velocity cloud found throughout galactic halo, gas dynamics and astrochemical evolution of molecular clouds, and the dynamical evolution of gas giant and protoplanetary disk. Dealing with those topics, I learned numerical technics applied in computational fluid dynamics (AMR, SPH, MFM) and multi-physics simulation, and contributed on developing multiple solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
 
-Until I've faced AI technologies I carried out master degree in Astrophysics, studying dynamical evolution of gas giant. While starting my career as research scientist after graduation, I am digging into machine learning stuff in earnest. It is just start to me, however, I spend my passion these days on the topics such as classification, segmentation, landmark detection based on medical image data. Not only in AI but I’d like to become an expert in the overall field of computational simulation.
-
-In my career, I have experienced in solving several computational problems relating to the following topics:
-
-1. **Multi-physics Simulation**
-2. **Computational Fluid Dynamics**
-3. **Image/Geometry Processing**
-4. **Machine/Deep Learning**
-5. **Reinforcement Learning**
 
 ### Contact
-I always welcome everyone who want to discuss with me, so don't hesitate contact me if you want to talk about research topics or ask some questions :)
+*If you look forward to discuss interesting topics of research and development with me, not that hesitate to contact me through below information :)*
 
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
