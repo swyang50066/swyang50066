@@ -29,12 +29,11 @@ Until I've faced AI technologies I carried out master degree in Astrophysics, st
 
 In my career, I have experienced in solving several computational problems relating to the following topics:
 
-1. **Computational Fluid Dynamics (CFD)**
-2. **Multi-physics Simulation**
-3. **Image Processing**
-4. **Computational Geometry**
-5. **Machine Learning and Deep Learning**
-6. **Reinforcement Learning**
+1. **Multi-physics Simulation**
+2. **Computational Fluid Dynamics**
+3. **Image/Geometry Processing**
+4. **Machine/Deep Learning**
+5. **Reinforcement Learning**
 
 I always welcome everyone who want to discuss with me, so don't hesitate contact me if you want to talk about research topics or ask some questions :)
 
