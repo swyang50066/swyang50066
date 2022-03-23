@@ -23,11 +23,15 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-I am *Seung-Won Yang* and a research scientist specialized in the **data-driven modeling**, **physics-based modeling** and **scientific simulation**. 
 
-My scientific computing skills had trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of high velocity cloud found throughout galactic halo, gas dynamics and astrochemical evolution of the molecular clouds, and physical interaction between gas giant and protoplanetary disk. While digging these topics, I learned diverse numerical techniques applied in computational fluid dynamics (AMR, SPH, MFM) and multi-physics simulation, and contributed on developing multiple solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
+I am *Seung-Won Yang* and a research scientist at AI Medic Inc. specialized in the **data-driven/physics-based modeling** and **scientific simulation**. 
 
-That was after graduation I moved to hold a position in research scientist, cause me to be working on AI stuff. In particular I have been stepping toward medical imaging which is a branch of computer vision, and main tasks become anatomical segmentation, landmark/anomaly detection, and image/geometry processing.
+My scientific computing skills had trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of high velocity cloud found throughout galactic halo, gas dynamics and astrochemical evolution of the molecular clouds, and physical interaction between gas giant and protoplanetary disk. While digging these topics, I learned diverse numerical techniques in computational fluid dynamics (AMR, SPH, MFM) and multi-physics simulation and contributed on developing multiple solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
+
+That was after graduation I had moved to hold a position in applied research scientist, cause me to be working on AI stuff. In particular I have been stepping toward medical imaging which is a branch of computer vision. So these days, my main tasks become anatomical segmentation, landmark/anomaly detection, and image/geometry processing, dealing with novel algorithmic methods based on deep learning and reinforcement learning. Also, I am a lead to AI research & medical imaging team at present, managing research projects.
+
+Not only scientific and technical terms but I am very into  
+
 
 ### Contact
 *If you look forward to discuss interesting topics of research and development with me, not that hesitate to contact me through below information :)*
