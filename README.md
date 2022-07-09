@@ -24,13 +24,13 @@
 </p>
 
 
-I am *Seung-Won Yang* and a research scientist specialized in the **data-driven/physics-based modeling** and **scientific simulation**. 
+I am Seung-Won Yang and a computational research scientist specialized in the **data-driven/physics-based modeling** and **numerical simulation**.
 
-My scientific computing skills had trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of high velocity cloud found throughout galactic halo, gas dynamics and astrochemical evolution of the molecular clouds, and physical interaction between gas giant and protoplanetary disk. While digging into these topics, I learned diverse numerical techniques in computational fluid dynamics (AMR, SPH, MFM) and multi-physics simulation and contributed on developing multiple solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
+My scientific computing skills have been trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of [high velocity cloud (HVC)](https://en.wikipedia.org/wiki/High-velocity_cloud) found throughout galactic halo, gas dynamics and astrochemical evolution of the [molecular clouds](https://en.wikipedia.org/wiki/Molecular_cloud), and dynamic interaction between [gas giant](https://en.wikipedia.org/wiki/Gas_giant) and [protoplanetary disk](https://en.wikipedia.org/wiki/Protoplanetary_disk). Dealing with into these topics, I learned numerical techniques applied in computational fluid dynamics (AMR, SPH, MFM) and in multi-physics simulation, and contributed on development of numerical solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
 
-That was after graduation I had moved to hold a position in applied research scientist, cause me to be working on AI stuff. In particular I have been stepping toward medical imaging which is a branch of computer vision. So these days, my main tasks become anatomical segmentation, landmark/anomaly detection, and image/geometry processing, dealing with novel algorithmic methods based on deep learning and reinforcement learning. Also, I am a lead to AI research & medical imaging team at present, managing research projects.
+Working as a research scientist at a healthcare startup, I started to handle stuffs of AI algorithms and computer vision tasks. Mainly I studied anatomical segmentation and reinforcement learning based medical imaging, and also contributed on developing lots of algorithms for image processing and geometry analysis. Recently I have been focusing on reinforcement learning based network model optimization, considering generalization and robustness of multi-modal and multi-task able architecture
 
-By the way, not only scientific and technical terms but I am very into understanding project management skills. Because I believe the importance of teamwork, I am trying to figure out how to clarify work communication, how to improve team performance, how to encourage personal growth in the team, how to establish team norm that make work efficient and effective, and so on. Frankly, I'm still immature on that but soon hope to grow as both good team member and team lead.
+I would like to be a person who can contribute on solving the real-world problems that we encounter these days. To achieve this purpose, I am trying to be an expert in scientific computing, not limited to artificial intelligence as I have done so far.
 
 
 ### Contact
@@ -38,7 +38,7 @@ If you look forward to have a discuss with me about interesting scientific and t
 
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
-  **[blog]**    [my-tech-archive](http://my-tech-archive.site)  
+  **[blog]**    [medium](https://medium.com/@bigbang50066)  
   **[twitter]** [swyang50066](https://twitter.com/swyang50066)
 
 <p align='center'>
