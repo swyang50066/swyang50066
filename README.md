@@ -23,18 +23,19 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
+Hello, there!
 
-I am Seung-Won Yang and a computational research scientist specialized in the **data-driven/physics-based modeling** and **numerical simulation**.
+I am Seung-Won Yang and a computational research scientist specialized in the data-
+driven/physics-based modeling and the numerical simulation.
+My scientific computing skills have been trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the high velocity cloud (HVC) found throughout galactic halo, astrochemical evolution of the turbulent molecular clouds, and dynamic interaction between gas giant and protoplanetary disk. During the courses, I naturally learned low-level numerical techniques applied in computational fluid dynamics (AMR, SPH, MFM) and in multi- physics simulation. Also I had developed of numerical solvers including chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.  
 
-My scientific computing skills have been trained through wide research experiences. Carrying out my degrees in Astrophysics, I studied the origin of [high velocity cloud (HVC)](https://en.wikipedia.org/wiki/High-velocity_cloud) found throughout galactic halo, gas dynamics and astrochemical evolution of the [molecular clouds](https://en.wikipedia.org/wiki/Molecular_cloud), and dynamic interaction between [gas giant](https://en.wikipedia.org/wiki/Gas_giant) and [protoplanetary disk](https://en.wikipedia.org/wiki/Protoplanetary_disk). Dealing with into these topics, I learned numerical techniques applied in computational fluid dynamics (AMR, SPH, MFM) and in multi-physics simulation, and contributed on development of numerical solver and physics modules, such as chemical evolution, radiative process, accretion flow, dust physics, fluid-particle interaction, turbulent viscosity, and thermal evolution.
+After graduation, I joined healthcare startup as a research scientist, and that was the first time in which I started to handle AI algorithms relating to medical imaging. Fortunately, I was able to meet various ML/DL tasks that rapidly made me grow up as a ML researcher. Moreover, I successfully led several core research projects to make AI-CAD solution for cardiac system, and in recognition for the achievements, took a role in ‘AI Research & Medical’ team lead.  
 
-Working as a research scientist at a healthcare startup, I started to handle stuffs of AI algorithms and computer vision tasks. Mainly I studied anatomical segmentation and reinforcement learning based medical imaging, and also contributed on developing lots of algorithms for image processing and geometry analysis. Recently I have been focusing on reinforcement learning based network model optimization, considering generalization and robustness of multi-modal and multi-task able architecture
+I would like to be a person who can contribute on solving the real-world problems that we encounter these days. To achieve this purpose, so I am trying to be an expert in scientific computing, not limited to artificial intelligence as I have done so far.
 
-I would like to be a person who can contribute on solving the real-world problems that we encounter these days. To achieve this purpose, I am trying to be an expert in scientific computing, not limited to artificial intelligence as I have done so far.
 
 
 ### Contact
-If you look forward to have a discuss with me about interesting scientific and technical subjects (even no matter what it is), not that you hesitate to contact me through below information :)
 
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
