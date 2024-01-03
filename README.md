@@ -41,7 +41,11 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-squre&logo=markdown&logoColor=white"/></a>
 </p>
 
-TBU
+During my career, I have experienced following technical stuffs:
+ - Multi-physics Modeling: N-body Simulation, Particle-Fluid Interaction, Radiative Transfer
+ - Computational Fluid Dynamics: Adaptive Mesh Refinement (AMR), Smooth Particle Hydrodynamics (SPH)
+ - Computer Vision: Medical Imaging, 3D Vision, SLAM, SfM
+ - ML/DL: AutoML, MLOps, Multi-agent RL
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue"/>
