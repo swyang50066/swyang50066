@@ -39,28 +39,7 @@ I would like to be a person who can contribute on solving the real-world problem
 
   **[e-mail]**  <bigbang50066@gmail.com>  
   **[linkedin]**  <https:///www.linkedin.com/in/bigbang50066>  
-  **[blog]**    [medium](https://medium.com/@bigbang50066)  
-  **[twitter]** [swyang50066](https://twitter.com/swyang50066)
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue"/>
 </p>
-
-<!--
-![swyang's github stats](https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue)
--->
-
-<!--
-**swyang50066/swyang50066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
