@@ -28,16 +28,17 @@
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue"/></a>
   <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/></a>
-  <br
+  <br>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black"/></a>
   <br>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-squre&logo=markdown&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-squre&logo=markdown&logoColor=white"/></a>
 </p>
 
 TBU
