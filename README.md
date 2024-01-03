@@ -47,6 +47,8 @@ During my career, I have experienced following technical stuffs:
  - Computer Vision: Medical Imaging, 3D Vision, SLAM, SfM
  - ML/DL: AutoML, MLOps, Multi-agent RL
 
+Do not hesitate to contact me to ask anything!
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=swyang50066&show_icons=true&theme=vue"/>
 </p>
