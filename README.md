@@ -14,25 +14,23 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=fff&style=flat-square"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/></a>&nbsp
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue"/></a>
+  <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/></a>
+  <br
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>&nbsp
